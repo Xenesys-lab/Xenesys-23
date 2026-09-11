@@ -1,2 +1,9 @@
 # Xenesys-23
-Xenesys notification repo 23
+
+## Notification update
+
+This is a new change in our system.
+
+Every member should focus on this update.
+
+Round: 1
